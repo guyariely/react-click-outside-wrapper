@@ -2,7 +2,11 @@
 
 A react wrapper component to detect and trigger a callback once clicked outside it's children.
 
-# Install
+## Demo
+
+<https://react-click-outside-wrapper.netlify.app/>
+
+## Install
 
 Using [npm](http://npmjs.org):
 
